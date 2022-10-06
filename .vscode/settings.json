@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "mysql-connector-java-8.0.28.jar",
+        "rs2xml.jar",
+        "c:\\All Languages\\Bank-Management-System\\activation-1.1.jar",
+        "c:\\All Languages\\Bank-Management-System\\javax.mail-1.6.1.jar"
+    ]
+}
